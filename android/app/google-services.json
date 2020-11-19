@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "771002474423",
+    "firebase_url": "https://isa-app-e8bef.firebaseio.com",
+    "project_id": "isa-app-e8bef",
+    "storage_bucket": "isa-app-e8bef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771002474423:android:aa5bea60c6cdbebbf71232",
+        "android_client_info": {
+          "package_name": "com.example.isa_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771002474423-0i36r6mpmdm5jfi2n0cv7kjkebkdq40r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2aQpu5-f5DYloBoqyDmZk9Qsw4T4_sXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771002474423-0i36r6mpmdm5jfi2n0cv7kjkebkdq40r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
